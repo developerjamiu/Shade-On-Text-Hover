@@ -1,0 +1,34 @@
+name: shade_on_text_hover_challenge
+description: "A Flutter project demonstrating shade on text hover"
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.2.5 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+flutter:
+
+  uses-material-design: true
+
+  fonts:
+    - family: GigaSans
+      fonts:
+        - asset: assets/fonts/giga_sans/gigasans-light.otf
+          weight: 300
+
+        - asset: assets/fonts/giga_sans/gigasans-regular.otf
+          weight: 400
+
+        - asset: assets/fonts/giga_sans/gigasans-bold.otf
+          weight: 700
