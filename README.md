@@ -1,16 +1,6 @@
 # shade_on_text_hover_challenge
 
-A new Flutter project.
+My implementation of the FlutterBytes Text Hover Challenge. Details here: https://x.com/flutterbytes_c/status/1760640694358622572?s=20
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Demo
+[Uploading Screen Recording 2024-02-23 at 16.26.47.mov…](https://github.com/developerjamiu/Shade-On-Text-Hover/assets/50176100/b7142c83-6a36-47ec-81f7-e4786e179e2f)https://github.com/developerjamiu/Shade-On-Text-Hover/assets/50176100/b7142c83-6a36-47ec-81f7-e4786e179e2f
